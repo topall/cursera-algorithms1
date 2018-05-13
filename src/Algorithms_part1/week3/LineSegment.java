@@ -1,4 +1,4 @@
-package week3;
+package Algorithms_part1.week3;
 
 public class LineSegment {
     private final Point p;   // one endpoint of this line segment

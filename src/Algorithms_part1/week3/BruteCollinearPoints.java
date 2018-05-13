@@ -1,4 +1,4 @@
-package week3;
+package Algorithms_part1.week3;
 
 import java.util.ArrayList;
 import java.util.Arrays;

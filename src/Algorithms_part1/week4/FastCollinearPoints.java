@@ -1,7 +1,7 @@
-package week4;
+package Algorithms_part1.week4;
 
-import week3.LineSegment;
-import week3.Point;
+import Algorithms_part1.week3.LineSegment;
+import Algorithms_part1.week3.Point;
 
 import java.util.ArrayList;
 import java.util.Arrays;

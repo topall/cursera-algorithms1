@@ -1,4 +1,4 @@
-package week2;
+package Algorithms_part1.week2;
 
 import java.util.Iterator;
 import java.util.NoSuchElementException;

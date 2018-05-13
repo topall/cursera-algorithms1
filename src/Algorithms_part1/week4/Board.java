@@ -1,4 +1,4 @@
-package week4;
+package Algorithms_part1.week4;
 
 import java.util.ArrayList;
 
